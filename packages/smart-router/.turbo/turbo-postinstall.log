@@ -1,0 +1,7 @@
+yarn run v1.22.19
+warning package.json: No license field
+$ yarn typechain
+warning package.json: No license field
+$ typechain --out-dir evm/abis/types --target=ethers-v5 "evm/abis/*.json"
+Successfully generated 24 typings!
+Done in 2.00s.
